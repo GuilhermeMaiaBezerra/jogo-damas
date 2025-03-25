@@ -1,4 +1,4 @@
-## Conversor de base númerica
+## Jogo de Damas
 
 Este é um sistema desenvolvido como atividade acadêmica de um simples jogo de DAMA.
 
